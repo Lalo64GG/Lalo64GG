@@ -1,6 +1,6 @@
 <h2 align="left">Hi! My name is Eduardo and I'm a front-end Developer, i'm from Mexico.</h2>
 
-### [![https://spotify-github-profile.vercel.app/api/view.svg?uid=3144xemggnf3gr5qlouuhxoagwee&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=3144xemggnf3gr5qlouuhxoagwee&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
+### [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3144xemggnf3gr5qlouuhxoagwee&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lalo64GG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
