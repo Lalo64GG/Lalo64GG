@@ -8,9 +8,7 @@
 </div>
 
 ###
-<div aling= "center">
-###[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3144xemggnf3gr5qlouuhxoagwee&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-</div>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3144xemggnf3gr5qlouuhxoagwee&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 ###
 <br clear="both">
 
