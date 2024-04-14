@@ -9,16 +9,8 @@
 
 ###
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3144xemggnf3gr5qlouuhxoagwee&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-<div align="center">
-  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
-</div>
-
 ###
-
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Lalo64GG/Lalo64GG/output/snake.svg" alt="Snake animation" />
 
 ###
 
