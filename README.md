@@ -1,11 +1,11 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://placeimg.com/1000/300/tech" alt="Banner" />
+  <img src="https://img.pikbest.com/backgrounds/20190312/black-and-white-modern-minimalist-style-geometric-line-banner-background_2751856.jpg!w700wp" alt="Banner" />
 </div>
 
 <!-- Introduction -->
-<h2 align="center">Hola, soy Eduardo 👋</h2>
-<p align="center">Soy un desarrollador front-end de México, apasionado por crear experiencias web increíbles.</p>
+<h2 align="center">Hi there, I'm Eduardo 👋</h2>
+<p align="center">I'm a front-end developer from Mexico, passionate about crafting amazing web experiences. I also love mobile development with React Native.</p>
 
 <!-- Spotify -->
 <div align="center">
@@ -26,20 +26,20 @@
 
 <!-- Skills -->
 <div align="center">
-  <h3>Habilidades</h3>
+  <h3>Skills</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="Sass" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" alt="React Native" />
 </div>
 
 <!-- Contact Info -->
 <div align="center">
-  <h3>Contacto</h3>
-  <a href="mailto:correo@example.com">✉️ Correo Electrónico</a> |
+  <h3>Contact</h3>
+  <a href="mailto:correo@example.com">✉️ Email</a> |
   <a href="https://linkedin.com/in/tu_perfil">🔗 LinkedIn</a> |
   <a href="https://twitter.com/tu_usuario">🐦 Twitter</a>
 </div>
