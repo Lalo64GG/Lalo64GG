@@ -39,7 +39,7 @@
 <!-- Contact Info -->
 <div align="center">
   <h3>Contact</h3>
-  <a href="mailto:correo@example.com">✉️ Email</a> |
-  <a href="https://linkedin.com/in/tu_perfil">🔗 LinkedIn</a> |
+  <a href="mailto:et05923@gmail.com">✉️ Email</a> |
+  <a href="www.linkedin.com/in/daniel-eduardo-bautista-trujillo-71204324a">🔗 LinkedIn</a> |
   <a href="https://twitter.com/tu_usuario">🐦 Twitter</a>
 </div>
