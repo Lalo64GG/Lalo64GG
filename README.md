@@ -1,11 +1,11 @@
+<!-- Introduction -->
+<h2 align="center">Hi there, I'm Eduardo 👋</h2>
+<p align="center">I'm a front-end developer from Mexico, passionate about crafting amazing web experiences. I also love mobile development with React Native.</p>
+
 <!-- Banner -->
 <div align="center">
   <img src="https://img.pikbest.com/backgrounds/20190312/black-and-white-modern-minimalist-style-geometric-line-banner-background_2751856.jpg!w700wp" alt="Banner" />
 </div>
-
-<!-- Introduction -->
-<h2 align="center">Hi there, I'm Eduardo 👋</h2>
-<p align="center">I'm a front-end developer from Mexico, passionate about crafting amazing web experiences. I also love mobile development with React Native.</p>
 
 <!-- Spotify -->
 <div align="center">
