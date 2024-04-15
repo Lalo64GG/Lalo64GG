@@ -15,9 +15,7 @@
 </div>
 
 <!-- GitHub Stats -->
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lalo64GG&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" />
-</div>
 
 <!-- Top Languages -->
 <div align="center">
@@ -40,6 +38,6 @@
 <div align="center">
   <h3>Contact</h3>
   <a href="mailto:et05923@gmail.com">✉️ Email</a> |
-  <a href="www.linkedin.com/in/daniel-eduardo-bautista-trujillo-71204324a">🔗 LinkedIn</a> |
+  <a href="www.linkedin.com/in/daniel-eduardo-bautista-trujillo-71204324a/">🔗 LinkedIn</a> |
   <a href="https://twitter.com/tu_usuario">🐦 Twitter</a>
 </div>
