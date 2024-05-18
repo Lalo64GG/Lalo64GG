@@ -1,6 +1,7 @@
 <!-- Introduction -->
 <h2 align="center">Hi there, I'm Eduardo 👋</h2>
 <p align="center">I'm a front-end developer from Mexico, passionate about crafting amazing web experiences. I also love mobile development with React Native.</p>
+<p> (Kasty's versión) 🦋</p>
 
 <!-- Banner -->
 <div align="center">
