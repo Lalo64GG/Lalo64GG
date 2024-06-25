@@ -1,7 +1,6 @@
 <!-- Introduction -->
 <h2 align="center">Hi there, I'm Eduardo 👋</h2>
 <p align="center">I'm a front-end developer from Mexico, passionate about crafting amazing web experiences. I also love mobile development with React Native.</p>
-<p> (Kasty's versión) 🦋</p>
 
 <!-- Banner -->
 <div align="center">
@@ -10,8 +9,7 @@
 
 <!-- Spotify -->
 <div align="center">
- <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3144xemggnf3gr5qlouuhxoagwee&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"></a>
-</div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3144xemggnf3gr5qlouuhxoagwee&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)>
 
 <!-- GitHub Stats -->
 <div align="center">
