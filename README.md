@@ -9,9 +9,7 @@
 
 <!-- Spotify -->
 <div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com">
-    <img src="https://spotify-github-profile.kittinanx.com" alt="Spotify Profile" />
-  </a>
+   <img src="https://github-readme-stats.vercel.app/api?username=Lalo64GG&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" />
 </div>
 
 <!-- GitHub Stats -->
