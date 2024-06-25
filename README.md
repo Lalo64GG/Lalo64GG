@@ -8,6 +8,8 @@
 </div>
 
 <!-- Spotify -->
+
+### 🎧 Spotify Playing
 <div align="center">
 
 <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3144xemggnf3gr5qlouuhxoagwee&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3144xemggnf3gr5qlouuhxoagwee&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true "/>
