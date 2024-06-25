@@ -9,7 +9,7 @@
 
 <!-- Spotify -->
 <div align="center">
-  <a href="https://open.spotify.com/user/3144xemggnf3gr5qlouuhxoagwee">
+  <a href="https://spotify-github-profile.kittinanx.com">
     <img src="https://spotify-github-profile.kittinanx.com" alt="Spotify Profile" />
   </a>
 </div>
