@@ -9,7 +9,7 @@
 
 <!-- Spotify -->
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Lalo64GG&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" />
+ [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />]()
 </div>
 
 <!-- GitHub Stats -->
