@@ -9,7 +9,8 @@
 
 <!-- Spotify -->
 <div align="center">
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3144xemggnf3gr5qlouuhxoagwee&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3144xemggnf3gr5qlouuhxoagwee&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
 
 <!-- GitHub Stats -->
 <div align="center">
