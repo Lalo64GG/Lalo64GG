@@ -9,7 +9,7 @@
 
 <!-- Spotify -->
 <div align="center">
- [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />]()
+ <img src="[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3144xemggnf3gr5qlouuhxoagwee&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)" alt="naviscode spotify playing" width="350" />
 </div>
 
 <!-- GitHub Stats -->
