@@ -1,3 +1,28 @@
+<!-- Introduction -->
+<h2 align="center">Hi there, I'm Eduardo 👋</h2>
+<p align="center">I'm a front-end developer from Mexico, passionate about crafting amazing web experiences. I also love mobile development with React Native.</p>
+
+<!-- Banner -->
+<div align="center">
+  <img src="https://img.pikbest.com/backgrounds/20190312/black-and-white-modern-minimalist-style-geometric-line-banner-background_2751856.jpg!w700wp" alt="Banner" />
+</div>
+
+<!-- Spotify -->
+
+### 🎧 Spotify Playing
+<div align="center">
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3144xemggnf3gr5qlouuhxoagwee&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3144xemggnf3gr5qlouuhxoagwee&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true "/>
+</div>
+
+<!-- GitHub Stats -->
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=Lalo64GG&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" />
+</div>
+ 
+<!-- Top Languages -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalo64GG&layout=compact&card_width=445&theme=dark" alt="Top Languages" />
 </div>
 
 <!-- Skills -->
