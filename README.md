@@ -26,34 +26,34 @@
 
 ---
 
-## 🌐 Frontend Development
+## Frontend
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" alt="React Native" />
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML"></a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS"></a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></a>
+   <a href=""> <img src="https://skillicons.dev/icons?i=ts"/> </a>
+   <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" alt="React"></a>
+    <a href=""> <img src="https://skillicons.dev/icons?i=kotlin"/> </a>
+
   <img alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 </div>
 
----
 
-## 💻 Backend & Database
+
+## Backend & Database
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Go" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite" />
+   <a href=""> <img src="https://skillicons.dev/icons?i=go"/> </a>
+   <a href=""> <img src="https://skillicons.dev/icons?i=spring"/> </a>
+   <a href=""> <img src="https://skillicons.dev/icons?i=mongo"/> </a>
+   <a href=""> <img src="https://skillicons.dev/icons?i=mysql"/> </a>
+   <a href=""> <img src="https://skillicons.dev/icons?i=postgres"/> </a>
+   <a href=""> <img src="https://skillicons.dev/icons?i=sqlite"/> </a>
+  
 </div>
 
----
 
-## 🔐 Cybersecurity Enthusiast
+## Cybersecurity Enthusiast
 <p align="center">I'm passionate about securing applications and networks. I constantly study and implement best practices for secure development, including:</p>
 
 - 🛠️ **Penetration Testing** & Ethical Hacking
@@ -75,9 +75,9 @@
 - 🐳 **Docker & Kubernetes**
 
 <div align="center">
-  <img alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  < <a href=""> <img src="https://skillicons.dev/icons?i=aws"/> </a>
+   <a href=""> <img src="https://skillicons.dev/icons?i=docker"/> </a>
+   <a href=""> <img src="https://skillicons.dev/icons?i=kubernetes"/> </a>
 </div>
 
 ---
